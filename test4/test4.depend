@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1429485289 source:/home/david/Desktop/CloudV4/test4/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1066736514 /home/david/Desktop/freeglut-3.0.0/include/GL/glut.h
+	"freeglut_std.h"
+
+1413563304 /home/david/Desktop/freeglut-3.0.0/include/GL/freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
