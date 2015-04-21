@@ -29,7 +29,7 @@ const float massMax = 100000.0f;
 const float posMin = 0;
 const float posMax = 10000000000000.0f; //meters
 
-#define num_particles 100
+#define num_particles 5000
 #define pi 3.14159265
 
 typedef struct vector2
